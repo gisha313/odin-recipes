@@ -1,0 +1,36 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px
+}
+
+.title {
+    color: white;
+}
+
+.title.page {
+    text-align: center;
+    background-color: rgb(82, 57, 169);
+    font-size: 48px;
+}
+
+.title.section {
+    background-color: rgb(120, 100, 193);
+    font-size: 36px;
+}
+
+.recipe-list a{
+    text-decoration: none;
+    color: black;
+}
+
+img {
+    width: 500;
+    height: auto;
+}
+
+.home a{
+    text-decoration: none;
+    background-color: rgb(55, 0, 255);
+    color: white;
+    font-size: 30px;
+}
